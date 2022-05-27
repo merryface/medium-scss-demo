@@ -1,0 +1,26 @@
+.declaration { 
+  width: 50%;
+  max-width: 300px;
+  min-width: 100px;
+  margin: 30px auto;
+  padding: 10px;
+  text-align: center;
+  
+  &_word {
+    color: white;
+    font-size: 30px;
+    width: 100%;
+  }
+  
+  .I {
+    background: black;
+  }
+  
+  .love {
+    background: red;
+  }
+  
+  .sass {
+    background: blue;
+  }
+}
